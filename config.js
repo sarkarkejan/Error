@@ -7,7 +7,7 @@ global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "ngoyaibraah@gmail.com";
-global.location = "pakistan,karachi";
+global.location = "pakistan,islamabad";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://giftedte:SER3spXjIJSOwrPT@cluster0.ni61idp.mongodb.net/?retryWrites=true&w=majority";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
